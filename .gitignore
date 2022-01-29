@@ -8,7 +8,9 @@ _audio/
 FACE/temp_img/
 
 FACE/facepointmemo/
-
+build/
+dist/
+src/kyokowt.egg-info/
 FACE/emomemo/
 
 MakeGraph/graphs/

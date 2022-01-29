@@ -6,7 +6,7 @@ setup(
     description='kyokowt',
 
     author='kahenteikou',
-    author_email='umekoujouhouhan@gmail.com',
+    author_email='kokkiemouse@gmail.com',
     url='None.com',
     packages=find_packages(where='src'),
     package_dir={'': 'src'},
