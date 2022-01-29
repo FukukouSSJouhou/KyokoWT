@@ -1,6 +1,6 @@
 import speech_recognition
 
-from src import KyokoWTCore
+from . core import KyokoWTCore
 
 
 class KyokoWTGoogle(KyokoWTCore):
