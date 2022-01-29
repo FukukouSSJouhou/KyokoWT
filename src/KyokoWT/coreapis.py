@@ -1,7 +1,7 @@
 import speech_recognition
 
-from KyokoWT.core import KyokoWTCore
-import json
+from src import KyokoWTCore
+
 
 class KyokoWTGoogle(KyokoWTCore):
     def __init__(self,lang_kun="ja-JP"):

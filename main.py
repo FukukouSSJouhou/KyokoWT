@@ -2,9 +2,6 @@
 
 # Shift+F10 を押して実行するか、ご自身のコードに置き換えてください。
 # Shift を2回押す を押すと、クラス/ファイル/ツールウィンドウ/アクション/設定を検索します。
-import speech_recognition
-
-import KyokoWT.coreapis
 
 
 def print_hi(name):
